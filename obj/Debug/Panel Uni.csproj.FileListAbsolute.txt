@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Panel Uni\bin\Debug\Panel Uni.exe.config
+C:\Users\Day 2 Day\Desktop\Panel Uni\bin\Debug\Panel Uni.exe
+C:\Users\Day 2 Day\Desktop\Panel Uni\bin\Debug\Panel Uni.pdb
+C:\Users\Day 2 Day\Desktop\Panel Uni\obj\Debug\Panel Uni.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Panel Uni\obj\Debug\Panel Uni.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Panel Uni\obj\Debug\Panel Uni.exe
+C:\Users\Day 2 Day\Desktop\Panel Uni\obj\Debug\Panel Uni.pdb
